@@ -1,0 +1,8 @@
+name=Traduccion ES - Build 42
+id=TraduccionES_B42
+description=Completa la traduccion al espanol de Project Zomboid Build 42. Anade las cadenas que el juego base todavia no tiene traducidas.
+poster=poster.png
+author=VLAN
+versionMin=42.0
+modVersion=1.0
+tags=Translation
